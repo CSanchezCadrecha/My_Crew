@@ -1,0 +1,22 @@
+{
+  "name": "tech-gang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marta-asturias/my-crew.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marta-asturias/my-crew/issues"
+  },
+  "homepage": "https://github.com/Marta-asturias/my-crew#readme",
+  "devDependencies": {
+    "sass": "^1.51.0"
+  }
+}
